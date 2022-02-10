@@ -1,0 +1,15 @@
+.intro {
+  width: 700px;
+  font-size: 18px;
+  border: 2px solid rgb(0, 204, 255);
+}
+
+.post_button {
+  font-size: 25px;
+}
+
+.add_photo_button {
+  border-radius: 30px;
+  border: 2px solid;
+  padding: 3px;
+}
